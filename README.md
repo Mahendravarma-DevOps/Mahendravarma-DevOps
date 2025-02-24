@@ -10,15 +10,15 @@
 
 - 🌱 I’m currently learning **Kubernetes**
 
-- 📝 I regularly write articles on [https://amanpathakdevops.medium.com](https://amanpathakdevops.medium.com)
+- 📝 I regularly post my work on [https://www.linkedin.com/in/mahendravarma-a-83a731211](https://www.linkedin.com/in/mahendravarma-a-83a731211/)
 
-- 💬 Ask me about **DevOps, Cloud Computing (AWS, Microsoft Azure), Kubernetes, Python, Linux System Administration, Git, Docker, Terraform, Jenkins, Ansible, Bash Scripting, Cybersecurity, Web Services, MongoDB, MySQL, SQL, React.js, HTML, CSS, Java, C++, Data Structures, C (Programming Language)**
+- 💬 Ask me about **DevOps, Cloud Computing (AWS, Microsoft Azure), Kubernetes, Linux System Administration, Git, Docker, Terraform, Jenkins, Ansible, Bash Scripting, Web Services**
 
-- 📫 How to reach me **aman.pathk23@gmail.com**
+- 📫 How to reach me **mahendravarma.sa@gmail.com**
 
 - ⚡ Fun fact **I am Extrovert**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/aman-devops](https://www.linkedin.com/in/aman-devops)
+- 📄 Know about my experiences [https://www.linkedin.com/in/mahendravarma-a-83a731211](https://www.linkedin.com/in/mahendravarma-a-83a731211/)
 
 ### Blogs posts
 <a href="https://amanpathakdevops.medium.com" target="_blank">Aman Pathak On Medium</a> 
