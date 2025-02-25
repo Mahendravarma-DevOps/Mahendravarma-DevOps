@@ -6,7 +6,7 @@
 
 
 
-- 🔭 I’m currently working on [Terraform-for-AWS](https://github.com/AmanPathak-DevOps/Terraform-for-AWS)
+- 🔭 I’m currently working on [Terraform-for-AWS](https://github.com/Mahendravarma-DevOps/k8s-fullstack-deployment.git/k8s-fullstack-deployment)
 
 - 🌱 I’m currently learning **Kubernetes**
 
